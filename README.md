@@ -7,6 +7,11 @@
 ![image](https://user-images.githubusercontent.com/70807684/129475771-bde1620c-8eb7-4dc1-9ebc-e9d5cbf20d79.png)
 
 
+<details close>
+  
+   <summary> Press Dropdown to see how to add your changes.</summary>
+
+
 ### 1. Fork the repository :
 
 ![image of forking](https://user-images.githubusercontent.com/70807684/126146920-35e7b080-cf1d-4e85-80da-9f0640e4224f.png)
@@ -64,3 +69,5 @@
 
 
 #### And that's it!
+  
+</details>
