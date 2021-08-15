@@ -2,7 +2,10 @@
 
 ## Have a ready-made app on GitHub or have an idea on what you want to showcase on the organization? Then here is what you need to do if you want it viewed by us :
 
-## Make an issue describing the app.
+## To help us know what your app is, make an issue describing the app. Example :
+
+![image](https://user-images.githubusercontent.com/70807684/129475771-bde1620c-8eb7-4dc1-9ebc-e9d5cbf20d79.png)
+
 
 ### 1. Fork the repository :
 
