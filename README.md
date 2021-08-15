@@ -15,7 +15,8 @@
 
 ### 2. Clone the repository :
 
-![image of cloning](https://user-images.githubusercontent.com/70807684/126147491-b96956c9-b88f-4b9a-bd2d-4fdc7bacffc7.png)
+![image](https://user-images.githubusercontent.com/70807684/129475872-da889f2f-a42f-44a5-afb9-bf5d1ea334aa.png)
+
 
 
 #### **ON YOUR FORKED REPOSITORY**, copy the link by pressing the clipboard and on your local git, copy the link in. If you are unable, use the link below and replace `username` with your GithHub username :
